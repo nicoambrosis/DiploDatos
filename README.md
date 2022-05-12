@@ -1,3 +1,4 @@
+Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones
 <p align="center">
   <img src="https://github.com/nicoambrosis/Diplodatos/blob/main/Data%20Science%20Machine%20Learning.png">
 </p>
