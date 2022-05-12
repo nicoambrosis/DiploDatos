@@ -6,8 +6,7 @@
 
 ---
 
-Notas, apuntes, graficos, ideas, etc. surgidos de la [Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones](https://diplodatos.famaf.unc.edu.ar/)  
-de la Universidad Nacional de Córdoba (FAMAF), Córdoba Technology Cluster y Centro de computación de alto desempeño (CCAD).
+Notas, apuntes, graficos, ideas, etc. surgidos de la [Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones](https://diplodatos.famaf.unc.edu.ar/) de la Universidad Nacional de Córdoba (FAMAF), Córdoba Technology Cluster y Centro de computación de alto desempeño (CCAD).
 
 ---
 
