@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nicoambrosis/Data-Science-and-Machine-Learning/blob/main/Data%20Science%20Machine%20Learning.png">
+  <img src="https://github.com/nicoambrosis/Diplodatos/blob/main/Data%20Science%20Machine%20Learning.png">
 </p>
 <h1 align='center'> DiploDatos </h1>
 <h3 align='center'> Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones </h3>
