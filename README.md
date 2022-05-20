@@ -17,6 +17,7 @@ Notas, apuntes, gráficos, visualizacion, ideas, etc. surgidos de la [Diplomatur
 ### 03 - Introducción al Aprendizaje Automático
 ### 04 - Aprendizaje Supervisado
 ### 05 - Aprendizaje No Supervisado
+### 06 - Mentoría
 \
 \
 \
