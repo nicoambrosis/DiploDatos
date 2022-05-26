@@ -18,5 +18,3 @@ Notas, apuntes, gráficos, visualizacion, ideas, etc. surgidos de la [Diplomatur
 ### 06 - [Mentoría]()
 \
 𝘍𝘰𝘵𝘰 𝘥𝘦 [𝘑𝘢𝘯𝘯𝘪𝘴 𝘉𝘳𝘢𝘯𝘥𝘵](https://unsplash.com/es/@jannisbrandt) 𝘦𝘯 𝘜𝘯𝘴𝘱𝘭𝘢𝘴𝘩
-
----
