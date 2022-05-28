@@ -8,6 +8,12 @@
 Notas, apuntes, gráficos, visualizacion, ideas, etc. surgidos de la [Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones](https://diplodatos.famaf.unc.edu.ar/) de la Universidad Nacional de Córdoba (FAMAF), Córdoba Technology Cluster y Centro de computación de alto desempeño (CCAD).
 
 ---
+<p align="center">
+  <a href="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos" target="_blank" rel="noreferrer">
+  <img src="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos/blob/main/Banner.png">
+</p>
+
+
 
 ### 01 - [Análisis y Visualización de Datos](https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos)
 ### 02 - [Análisis Exploratorio y Curación de Datos]()
