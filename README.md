@@ -9,7 +9,7 @@ Notas, apuntes, gráficos, visualizacion, ideas, etc. surgidos de la [Diplomatur
 
 ---
 
-### 01 - [Análisis y Visualización de Datos]()
+### 01 - [Análisis y Visualización de Datos](https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos)
 ### 02 - [Análisis Exploratorio y Curación de Datos]()
 ### 03 - [Introducción al Aprendizaje Automático]()
 ### 04 - [Aprendizaje Supervisado]()
