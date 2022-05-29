@@ -18,6 +18,11 @@ Notas, apuntes, gráficos, visualizacion, ideas, etc. surgidos de la [Diplomatur
   <a href="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos" target="_blank" rel="noreferrer">
   <img width="75%" src="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos/blob/main/Banners%20Diplodatos.png">
 </p>
+  
+<p align="center">
+  <a href="https://github.com/nicoambrosis/Introduccion-al-Aprendizaje-Automatico" target="_blank" rel="noreferrer">
+  <img width="75%" src="https://github.com/nicoambrosis/Introduccion-al-Aprendizaje-Automatico/blob/main/Banners%20Diplodatos.png">
+</p>
 
 
 
