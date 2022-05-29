@@ -12,6 +12,12 @@ Notas, apuntes, gráficos, visualizacion, ideas, etc. surgidos de la [Diplomatur
   <a href="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos" target="_blank" rel="noreferrer">
   <img width="75%" src="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos/blob/main/Banner.png">
 </p>
+  
+  
+<p align="center">
+  <a href="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos" target="_blank" rel="noreferrer">
+  <img width="75%" src="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos/blob/main/Banners%20Diplodatos.png">
+</p>
 
 
 
