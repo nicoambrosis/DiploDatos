@@ -28,5 +28,13 @@ Notas, apuntes, gráficos, visualizaciones, ideas, etc. surgidos de la [Diplomat
   <a href="https://github.com/nicoambrosis/Aprendizaje-Supervisado" target="_blank" rel="noreferrer">
   <img width="75%" src="https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/Banners%20Diplodatos.png">
 </p>
+  
+<p align="center">
+  <a href="https://github.com/nicoambrosis/Aprendizaje-No-Supervisado" target="_blank" rel="noreferrer">
+  <img width="75%" src="https://github.com/nicoambrosis/Aprendizaje-No-Supervisado/blob/main/Banners%20Diplodatos.png">
+</p>
 
+  
+
+  
   
